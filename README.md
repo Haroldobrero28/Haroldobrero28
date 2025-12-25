@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @JohnHaroldObrero
-- 👀 I’m interested in any programming language
-- 🌱 I’m currently learning how to write a very clean codes
-- 💞️ I’m looking to collaborate..... not yet!
+- 🌱 I’m currently learning mobile & front-end development
 - 📫 obreroharoldjohn@gmail.com
 
 <!---
